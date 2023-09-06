@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repo.
 <br>
-Autho - Shailesh Jadhav
+Autho - Shailesh Jadhav(Apna college)
